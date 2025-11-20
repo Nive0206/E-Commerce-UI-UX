@@ -1,8 +1,8 @@
 
 
-# 🛒 ECOM – E-Commerce App UI (Figma Design)
+# 🛒 E-Commerce App UI (Figma Design)
 
-A modern and clean E-Commerce mobile app UI designed in Figma with smooth interactions, components, and a user-friendly flow.
+A modern and clean E-Commerce mobile app UI designed in Figma with smooth interactions, components and a user-friendly flow.
 
 ---
 
@@ -25,23 +25,6 @@ A modern and clean E-Commerce mobile app UI designed in Figma with smooth intera
 ## 🎥 Demo Video
 👉 https://drive.google.com/file/d/126b0RYjBdCE_7wmGFaOMtH1RpkmMEzXR/view?usp=sharing
 
----
-
-## 📁 Figma Source File (.fig)
-The original `.fig` file is included in this repository for download.
-
----
-
-## 📷 Screenshots (To Be Added)
-You can upload exported PNGs of:
-- Home Screen  
-- Product Listing  
-- Product Details  
-- Cart  
-- Checkout  
-- Profile  
-
----
 
 ## 🛠 Tools & Features Used
 - **Figma**
